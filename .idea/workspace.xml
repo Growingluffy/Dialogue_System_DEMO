@@ -2,19 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="61815cd8-604c-46b6-87ee-8f9fa72f1b51" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Dialogue_System_DEMO.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CHAT/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QA/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task_Orient/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/al-tmjl-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/al-tmjl-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/al-tmjl-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ds.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/lh-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QA/KBQA/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QA/KBQA/data/Person.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Dialogue_System_DEMO.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Dialogue_System_DEMO.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,50 +18,85 @@
     <session id="1297800053">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="css" value="2" />
+          <entry key="html" value="7" />
           <entry key="jpg" value="5" />
-          <entry key="md" value="4" />
-          <entry key="py" value="1" />
+          <entry key="json" value="13" />
+          <entry key="md" value="13" />
+          <entry key="out" value="2" />
+          <entry key="pkl" value="1" />
+          <entry key="py" value="44" />
+          <entry key="sqlite3" value="1" />
+          <entry key="txt" value="15" />
+          <entry key="yml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="CSS" value="2" />
+          <entry key="HTML" value="7" />
           <entry key="Image" value="5" />
-          <entry key="Markdown" value="4" />
-          <entry key="Python" value="1" />
+          <entry key="JSON" value="13" />
+          <entry key="Markdown" value="13" />
+          <entry key="PLAIN_TEXT" value="18" />
+          <entry key="Python" value="44" />
+          <entry key="SQL" value="1" />
+          <entry key="YAML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="1160" />
+          <entry key="Python Console" value="39" />
+          <entry key="dummy" value="3" />
+          <entry key="html" value="62" />
+          <entry key="md" value="1690" />
+          <entry key="py" value="274" />
+          <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="1160" />
+          <entry key="HTML" value="62" />
+          <entry key="Markdown" value="1690" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Python" value="313" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/QA/KBQA/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1049">
-                <caret line="177" column="156" selection-start-line="177" selection-start-column="156" selection-end-line="177" selection-end-column="156" />
+              <first_editor relative-caret-position="1221">
+                <caret line="207" column="10" selection-start-line="207" selection-start-column="10" selection-end-line="207" selection-end-column="10" />
+                <folding>
+                  <element signature="e#702#1515#0" />
+                  <element signature="e#0#1547#1" />
+                </folding>
               </first_editor>
               <second_editor />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/QA/KBQA/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -84,15 +111,26 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>@contact: yc175798@gongdao.com</find>
+      <find>黑龙江省鸡西市师范学校</find>
+      <find>return ans, 'done'</find>
+      <find>cP</find>
+      <find>职业\n</find>
+      <find>^.{1} 职业\n</find>
+      <find>职业</find>
+      <find>   职业</find>
+      <find>_search_multihop_SP</find>
+      <find>translate_NL2LF</find>
     </findStrings>
     <replaceStrings>
       <replace />
+      <replace>p</replace>
     </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -100,6 +138,23 @@
       <list>
         <option value="$PROJECT_DIR$/readme.md" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/QA/preprocess.py" />
+        <option value="$PROJECT_DIR$/QA/build_dict.py" />
+        <option value="$PROJECT_DIR$/QA/search/build_dict.py" />
+        <option value="$PROJECT_DIR$/QA/1.json" />
+        <option value="$PROJECT_DIR$/QA/insert.py" />
+        <option value="$PROJECT_DIR$/QA/readme.md" />
+        <option value="$PROJECT_DIR$/QA/search/views.py" />
+        <option value="$PROJECT_DIR$/QA/KBQA/views.py" />
+        <option value="$PROJECT_DIR$/QA/KBQA/data/Person_val.txt" />
+        <option value="$PROJECT_DIR$/QA/KBQA/build_dict.py" />
+        <option value="$PROJECT_DIR$/QA/KBQA/templates/home.html" />
+        <option value="$PROJECT_DIR$/QA/KBQA/templates/entity.html" />
+        <option value="$PROJECT_DIR$/QA/KBQA/templates/message.html" />
+        <option value="$PROJECT_DIR$/QA/KBQA/app.py" />
+        <option value="$PROJECT_DIR$/QA/KBQA/templates/entity_list.html" />
+        <option value="$PROJECT_DIR$/QA/KBQA/readme.md" />
+        <option value="$PROJECT_DIR$/QA/KBQA/README.md" />
       </list>
     </option>
   </component>
@@ -127,7 +182,13 @@
             <path>
               <item name="Dialogue_System_DEMO" type="b2602c69:ProjectViewProjectNode" />
               <item name="Dialogue_System_DEMO" type="462c0819:PsiDirectoryNode" />
-              <item name="CHAT" type="462c0819:PsiDirectoryNode" />
+              <item name="QA" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Dialogue_System_DEMO" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Dialogue_System_DEMO" type="462c0819:PsiDirectoryNode" />
+              <item name="QA" type="462c0819:PsiDirectoryNode" />
+              <item name="KBQA" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -138,12 +199,17 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/QA/KBQA/data" />
+      <recent name="$PROJECT_DIR$/QA" />
       <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/QA" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -157,6 +223,106 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager" selected="Python.app">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Dialogue_System_DEMO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/QA/KBQA" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/QA/KBQA/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="build_dict" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Dialogue_System_DEMO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/QA/search" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/QA/search/build_dict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="insert" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Dialogue_System_DEMO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/QA" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/QA/insert.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="preprocess" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Dialogue_System_DEMO" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/QA" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/QA/preprocess.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.preprocess" />
+      <item itemvalue="Python.build_dict" />
+      <item itemvalue="Python.insert" />
+      <item itemvalue="Python.app" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python.insert" />
+        <item itemvalue="Python.build_dict" />
+        <item itemvalue="Python.preprocess" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -180,15 +346,15 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.42590675" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32953367" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32953367" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -196,6 +362,23 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/QA/KBQA/app.py</url>
+          <line>276</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="ent_dict" />
+        <watch expression="attr_ac" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/../embedding_study/ELMO/README.md">
@@ -211,21 +394,168 @@
     <entry file="file://$PROJECT_DIR$/images/al-tmjl-1.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/lh-1.jpg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/images/lh-1.jpg" />
+    <entry file="file://$PROJECT_DIR$/QA/KBQA/data/attr_ac.pkl">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/QA/demo/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/QA/KBQA/static/bootstrap/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QA/KBQA/static/font-awesome/css/font-awesome.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QA/log.txt" />
+    <entry file="file://$PROJECT_DIR$/QA/manage.py" />
+    <entry file="file://$PROJECT_DIR$/QA/Person.txt" />
+    <entry file="file://$PROJECT_DIR$/QA/Person_val.txt" />
+    <entry file="file://$PROJECT_DIR$/QA/1.json" />
+    <entry file="file://$PROJECT_DIR$/QA/insert.py" />
+    <entry file="file://$PROJECT_DIR$/QA/db.sqlite3" />
+    <entry file="file://$PROJECT_DIR$/QA/preprocess.py" />
+    <entry file="file://$PROJECT_DIR$/QA/search/tests.py" />
+    <entry file="file://$PROJECT_DIR$/QA/search/nohup.out" />
+    <entry file="file://$PROJECT_DIR$/QA/search/models.py" />
+    <entry file="file://$PROJECT_DIR$/QA/readme.md" />
+    <entry file="file://$PROJECT_DIR$/QA/search/apps.py" />
+    <entry file="file://$PROJECT_DIR$/QA/search/admin.py" />
+    <entry file="file://$PROJECT_DIR$/QA/demo/urls.py" />
+    <entry file="file://$PROJECT_DIR$/QA/demo/settings.py" />
+    <entry file="file://$PROJECT_DIR$/QA/demo/wsgi.py" />
+    <entry file="file://$PROJECT_DIR$/QA/KBQA/migrations/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/QA/build_dict.py" />
     <entry file="file://$PROJECT_DIR$/CHAT/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QA/KBQA/data/Person_val.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="8453" column="5" lean-forward="true" selection-start-line="8452" selection-start-column="17" selection-end-line="8453" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QA/KBQA/preprocess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="538">
+          <caret line="109" column="26" lean-forward="true" selection-start-line="109" selection-start-column="26" selection-end-line="109" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/jinja2/parser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QA/KBQA/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QA/KBQA/templates/entity.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1095">
+          <caret line="93" column="54" selection-start-line="93" selection-start-column="54" selection-end-line="93" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QA/KBQA/data/all_entity.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="498" selection-start-line="498" selection-end-line="498" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QA/KBQA/data/attr_mapping.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="9" selection-start-line="3" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.6/site-packages/flask/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="763">
+          <caret line="1798" selection-start-line="1798" selection-end-line="1798" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QA/KBQA/data/Person.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="82035" column="228" lean-forward="true" selection-start-line="82035" selection-start-column="228" selection-end-line="82035" selection-end-column="228" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/kibana-6.5.4-darwin-x86_64/config/kibana.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1183" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QA/KBQA/templates/message.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="99" lean-forward="true" selection-start-line="99" selection-end-line="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QA/KBQA/templates/entity_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="96" column="70" selection-start-line="96" selection-start-column="70" selection-end-line="96" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QA/KBQA/1.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1049">
-            <caret line="177" column="156" selection-start-line="177" selection-start-column="156" selection-end-line="177" selection-end-column="156" />
+          <first_editor relative-caret-position="2478">
+            <caret line="178" column="157" selection-start-line="178" selection-start-column="157" selection-end-line="178" selection-end-column="157" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QA/KBQA/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3870">
+          <caret line="276" selection-start-line="276" selection-end-line="276" />
+          <folding>
+            <element signature="e#85#134#0" expanded="true" />
+            <element signature="e#4177#4811#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QA/KBQA/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1221">
+            <caret line="207" column="10" selection-start-line="207" selection-start-column="10" selection-end-line="207" selection-end-column="10" />
+            <folding>
+              <element signature="e#702#1515#0" />
+              <element signature="e#0#1547#1" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QA/KBQA/build_dict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QA/KBQA/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
