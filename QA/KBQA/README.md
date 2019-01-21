@@ -78,6 +78,7 @@ index和type，并指定每个字段在elasticsearch中存储的类型。
 ## 使用
 
 - 下载安装ES
+- ./elasticsearch -d -Xms512m -Xmx512m 后台运行
 -  preprocess.py 预处理文件
 -  insert.py 数据导入ES
 -  python3 app.py 启动服务
@@ -90,7 +91,7 @@ index和type，并指定每个字段在elasticsearch中存储的类型。
 "must":{ "term":{"subj":"姚明"}
 }}}}'
 
-
+curl -XGET 'localhost:9200/analyze?&pretty' -H 'Content-Type:application/json' -d'{"analyzer":"standard","text":["我爱你"]}'
 
 curl -XGET 'localhost:9200/demo/person/_search?&pretty' -H 'Content-Type:application/json' -d'{"query":{"bool":{"must":[{"range":{"height":{"gt":170}}}]}}}'
 ```
